@@ -1,0 +1,36 @@
+_repo: Canyons-of-the-Colorado_8082
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Powell, John Wesley
+    aliases:
+    - Powell, J. W. (John Wesley)
+    - Powell, Wes
+    birthdate: 1834
+    deathdate: 1902
+    gutenberg_agent_id: '7040'
+    url: http://www.gutenberg.org/2009/agents/7040
+    wikipedia: http://en.wikipedia.org/wiki/John_Wesley_Powell
+description: Front Cover; Title Page; Copyright Page; Contents; Preface; The Valley
+  of the Colorado; Mesas and Buttes; Mountains and Plateaus; Cliffs and Terraces;
+  From Green River City to Flaming Gorge; From Flaming Gorge to the Gate of Lodore;
+  The Canyon of Lodore; From Echo Park to the Mouth of the Uinta River; From the Mouth
+  of the Uinta River to the Junction of The Grand and Green; From the Little Colorado
+  to the Foot of the Grand Canyon; The Rio Virgen and the Uinkaret Mountains; Over
+  the River; To Zuni; The Grand Canyon.
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8082'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Grand Canyon (Ariz.)'
+- !lcsh 'United States -- Discovery and exploration'
+- !lcsh 'Colorado River (Colo.-Mexico)'
+- !lcc 'F786'
+- GITenberg
+title: Canyons of the Colorado
+url: http://www.gutenberg.org/ebooks/8082
