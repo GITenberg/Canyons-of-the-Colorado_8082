@@ -1,5 +1,8 @@
 _repo: Canyons-of-the-Colorado_8082
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Powell, John Wesley
@@ -18,6 +21,8 @@ description: Front Cover; Title Page; Copyright Page; Contents; Preface; The Val
   of the Uinta River to the Junction of The Grand and Green; From the Little Colorado
   to the Foot of the Grand Canyon; The Rio Virgen and the Uinkaret Mountains; Over
   the River; To Zuni; The Grand Canyon.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8082#Canyons-of-the-Colorado
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
 identifiers:
